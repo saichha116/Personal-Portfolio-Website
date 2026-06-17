@@ -64,6 +64,4 @@ GET  /projects
 POST /projects
 
 Author
-
-Your Name
 Saichha Naik Mule
